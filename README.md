@@ -1,2 +1,2 @@
 # Todo-List
-Just a simple Todo List where you can add, edit or remove any task.
+Just a simple todo webapp where you can add many tasks, edit or remove any existing tasks.
